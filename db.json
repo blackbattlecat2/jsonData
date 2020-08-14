@@ -1,4 +1,5 @@
 {
+    "header" : {
     "logo": "https://www.mediprads.com/img/default-logo.jpg",
     "companyName": "Hello!",
     "phoneNumber": "+375 (29) 123-45-67",
@@ -18,7 +19,9 @@
     ],
     "bgImg": "https://abajur-shop.ru/wa-data/public/shop/img/slide2.jpg",
     "text": "You can learn anything",
-    "btnText": "Start learning now",
+    "btnText": "Start learning now"
+    },
+    "main" : {
     "heading": "Subjects",
     "items": [
       {
@@ -34,4 +37,5 @@
         "description": "Informatics applies the principles of information science to solve problems using data."
       }
     ]
+    }
 }
